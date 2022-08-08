@@ -1,0 +1,61 @@
+#upload-btn{
+	padding: 10px;
+	background-color: #00FFFF;
+	border: 2px solid #000000;
+	border-radius: 70px;
+	color: #000000;
+}    
+#upload-txt{
+	font-family: sans-serif;
+	margin-left: 10px;
+	font-size: 15px;
+	color: #696969;
+}    
+.forma {
+ position: relative;
+ top: 70%;
+ left: 20%;
+ transform: translate(-20%, 40%);
+}
+
+.start {
+ position: absolute;
+ top: 25%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+.butt1 {
+ border: 3px solid #000000;
+background-color: #696969;
+ font-size: 30px;
+ color: #000000;
+ text-decoration: none;
+ text-transform: uppercase;
+ width: 250px;
+ height: 60px;
+ display: block;
+ text-align: center;
+ line-height: 60px;
+ font-family: Arial, sans-serif;
+}   
+
+.download {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+.butt2 {
+ border: 3px solid #000000;
+background-color: #696969;
+ font-size: 30px;
+ color: #000000;
+ text-decoration: none;
+ text-transform: uppercase;
+ width: 250px;
+ height: 60px;
+ display: block;
+ text-align: center;
+ line-height: 60px;
+ font-family: Arial, sans-serif;
+} 
